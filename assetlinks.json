@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.govmend.govmend",
+        "sha256_cert_fingerprints": [
+          "CC:17:45:13:28:C9:F8:6E:3E:F8:5E:A7:64:0F:FA:77:8A:F3:73:90:28:B2:50:34:D6:97:70:0A:E6:21:5F:D7"
+        ]
+      }
+    }
+  ]
+  
