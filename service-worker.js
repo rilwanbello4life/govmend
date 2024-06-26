@@ -1,3 +1,4 @@
+<script>
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open('govmend-cache').then(function(cache) {
@@ -20,3 +21,4 @@ self.addEventListener('fetch', function(event) {
     })
   );
 });
+</script>
